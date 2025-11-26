@@ -12,7 +12,7 @@ Users can view multiple high-quality images in a clean gallery layout.
 - JavaScript
 
 ## 📸 Project Screenshot
-![Screenshot](Image%20Gallery/Screenshot.png.png)
+![Screenshot](./Image%20Gallery/Screenshot.png.png)
 
 ## 🚀 How to Run the Project
 1. Download the project
