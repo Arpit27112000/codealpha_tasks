@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h2>Image Gallery</h2>
+
+    <div class="filter">
+      <button class="active" data-filter="all">All</button>
+      <button data-filter="nature">Nature</button>
+      <button data-filter="city">City</button>
+      <button data-filter="animal">Animal</button>
+    </div>
+
+    <div class="gallery">
+      <div class="pic" data-category="nature">
+        <img src="pexels-m-venter-792254-1659438.jpg" alt="Nature 1" />
+      </div>
+      <div class="pic" data-category="city">
+        <img src="pexels-galerieb-1209978.jpg" alt="City 1" />
+      </div>
+      <div class="pic" data-category="animal">
+        <img src="pexels-chevanon-1108099.jpg" alt="Animal 1" />
+      </div>
+      <div class="pic" data-category="nature">
+        <img src="pexels-mastercowley-1128797.jpg" alt="Nature 2" />
+      </div>
+      <div class="pic" data-category="city">
+        <img src="pexels-hebaysal-773471.jpg" alt="City 2" />
+      </div>
+      <div class="pic" data-category="animal">
+        <img src="pexels-george-desipris-792381.jpg" alt="Animal 2" />
+      </div>
+      <div class="pic" data-category="nature">
+        <img src="pexels-fox-58267-212324.jpg" alt="Nature 3" />
+      </div>
+      <div class="pic" data-category="city">
+        <img src="pexels-lkloeppel-466685.jpg" alt="City 3" />
+      </div>
+      <div class="pic" data-category="animal">
+        <img src="pexels-pixabay-34231.jpg" alt="Animal 3" />
+      </div>
+      <div class="pic" data-category="nature">
+        <img src="pexels-pixabay-158063.jpg" alt="Nature 4" />
+      </div>
+      <div class="pic" data-category="city">
+        <img src="pexels-nout-gons-80280-378570.jpg" alt="City 4" />
+      </div>
+      <div class="pic" data-category="animal">
+        <img src="pexels-pixabay-45201.jpg" alt="Animal 4" />
+      </div>
+      <div class="pic" data-category="animal">
+        <img src="pexels-pixabay-47547.jpg" alt="Animal 5" />
+      </div>
+      <div class="pic" data-category="animal">
+        <img src="pexels-alex-andrews-271121-2295744.jpg" alt="Animal 6" />
+      </div>
+    </div>
+
+    <div class="popup">
+      <span id="close">&times;</span>
+      <img src="" id="popup-img" alt="" />
+    </div>
+
+    <footer>
+      <p>Created by Arpit Kumar | CodeAlpha Internship 2025</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
