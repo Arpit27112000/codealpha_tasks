@@ -37,7 +37,7 @@ It is a **personal portfolio website** built using HTML, CSS, and JavaScript to 
 
 ## 🎥 Demo Video (LinkedIn)
 
-https://www.linkedin.com/posts/arpit-kumar-web_codealpha-frontenddevelopment-internship-activity-7391403977906479104-fVe5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF93ceMBMGuqu1lC-4qcaWgf1lh8wvt3CA0
+https://www.linkedin.com/posts/arpit-kumar-web_codealpha-portfolio-webdevelopment-activity-7400203475009060864-W6yN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF93ceMBMGuqu1lC-4qcaWgf1lh8wvt3CA0
 
 ---
 
